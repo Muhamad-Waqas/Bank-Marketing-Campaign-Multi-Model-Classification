@@ -234,7 +234,7 @@ This may indicate differences in disposable income or financial behavior.
 
 ## 💳 Personal Loan vs Deposit
 
-![Personal Loan vs Deposit](images/personalLoan.JPG)
+![Personal Loan vs Deposit](images/Loan.JPG)
 
 Customers without a personal loan also showed a higher subscription rate.
 
@@ -261,6 +261,18 @@ These relationships could be investigated further when developing customer targe
 
   ![Call Duration](images/duration.JPG)
 - Customers who subscribed generally had longer call durations, suggesting that stronger customer engagement is associated with higher conversion. However, duration was excluded from pre-call prediction because it is only known after the customer interaction and can cause data leakage.
+
+
+- **Marital Status vs Subscription:**
+-Single customers show the highest subscription rate (≈54%), followed by divorced customers (≈48%) and married customers (≈43%).
+
+  ![Marital Status](images/marital.JPG)
+
+- **Education vs Subscription:**
+  
+![Education ](images/Education.JPG)
+
+Subscription behavior varies across education levels. Customers with tertiary education show a higher number of subscriptions relative to non-subscriptions, while customers with secondary and primary education show more non-subscriptions than subscriptions.
 ---
 
 # 🔗 7. Correlation Analysis
