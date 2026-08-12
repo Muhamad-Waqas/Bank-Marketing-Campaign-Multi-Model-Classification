@@ -427,7 +427,7 @@ K = 11
 
 
 
-![KNN Cross Validation](images/knncvs.jpg)
+![KNN Cross Validation](images/knncvs.JPG)
 
 The improvement was relatively small, around **1–2%**.
 
