@@ -215,6 +215,7 @@ EDA was not performed only for visualization. It was also used to answer meaning
 ## 🏠 Housing Loan vs Deposit
 
 ![Housing Loan vs Deposit](images/HouseLoan.JPG)
+
 Customers without a housing loan showed a higher subscription rate than customers with a housing loan.
 
 Approximate rates observed:
@@ -252,27 +253,30 @@ Customers without existing personal loans appeared more receptive to the term-de
 These relationships could be investigated further when developing customer targeting strategies.
 
 
-- **Job vs Subscription:**
+### Job vs Subscription:
 
   ![job vs subscirption](images/barplot.JPG)
+  
 - Subscription rates vary across occupational groups, indicating that job type can help identify customer segments with different levels of campaign responsiveness.
 
-- **Call Duration vs Subscription:**
+### Call Duration vs Subscription:
 
   ![Call Duration](images/duration.JPG)
+  
 - Customers who subscribed generally had longer call durations, suggesting that stronger customer engagement is associated with higher conversion. However, duration was excluded from pre-call prediction because it is only known after the customer interaction and can cause data leakage.
 
 
-- **Marital Status vs Subscription:**
+### Marital Status vs Subscription:
 -Single customers show the highest subscription rate (≈54%), followed by divorced customers (≈48%) and married customers (≈43%).
 
   ![Marital Status](images/marital.JPG)
 
-- **Education vs Subscription:**
+### Education vs Subscription:
   
 ![Education ](images/Education.JPG)
 
 Subscription behavior varies across education levels. Customers with tertiary education show a higher number of subscriptions relative to non-subscriptions, while customers with secondary and primary education show more non-subscriptions than subscriptions.
+
 ---
 
 # 🔗 7. Correlation Analysis
