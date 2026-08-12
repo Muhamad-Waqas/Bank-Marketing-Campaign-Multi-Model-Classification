@@ -397,7 +397,7 @@ Fold 5 → Training
 Repeat until every fold has been used for validation
 ```
 
-![Classification knn Cross Validation](images/knn_k value.JPG)
+![ knn Cross Validation](images/knn_kvalue.JPG)
 
 Cross-validation helped determine whether the model's performance was consistent across different subsets of the training data.
 
@@ -426,7 +426,9 @@ K = 11
 ```
 
 
-![Classification knn final model](images/knn cvs.JPG)
+
+![K=11 value](knn_cvs.JPG)
+
 The improvement was relatively small, around **1–2%**.
 
 ### Key Learning
@@ -536,7 +538,7 @@ The main metrics considered were:
 | **SVM**           | **85.54%** |      **0.88** |   **0.82** | **0.85** |
 
 
-![Classification Model Performance](Model_Comparison.JPG)
+![Classification Model Performance](Model_Comparions.JPG)
 
 ---
 
