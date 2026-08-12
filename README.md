@@ -214,6 +214,7 @@ EDA was not performed only for visualization. It was also used to answer meaning
 
 ## 🏠 Housing Loan vs Deposit
 
+![Housing Loan vs Deposit](images/HouseLoan.JPG)
 Customers without a housing loan showed a higher subscription rate than customers with a housing loan.
 
 Approximate rates observed:
@@ -233,6 +234,8 @@ This may indicate differences in disposable income or financial behavior.
 
 ## 💳 Personal Loan vs Deposit
 
+![Personal Loan vs Deposit](images/personalLoan.JPG)
+
 Customers without a personal loan also showed a higher subscription rate.
 
 Approximate rates observed:
@@ -248,6 +251,16 @@ Customers without existing personal loans appeared more receptive to the term-de
 
 These relationships could be investigated further when developing customer targeting strategies.
 
+
+- **Job vs Subscription:**
+
+  ![job vs subscirption](images/barplot.JPG)
+- Subscription rates vary across occupational groups, indicating that job type can help identify customer segments with different levels of campaign responsiveness.
+
+- **Call Duration vs Subscription:**
+
+  ![Call Duration](images/duration.JPG)
+- Customers who subscribed generally had longer call durations, suggesting that stronger customer engagement is associated with higher conversion. However, duration was excluded from pre-call prediction because it is only known after the customer interaction and can cause data leakage.
 ---
 
 # 🔗 7. Correlation Analysis
@@ -701,32 +714,8 @@ to create a customer prediction application.
 
 ---
 
-# 📁 22. Project Structure
 
-```text
-bank-marketing-prediction/
-│
-├── data/
-│   └── bank_marketing.csv
-│
-├── notebooks/
-│   └── bank_marketing_prediction.ipynb
-│
-├── images/
-│   ├── Countplot.png
-│   ├── barplot.png
-│   ├── correlation_heatmap.png
-│   ├── confusion_matrix.png
-│   └── model_comparison.png
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
-# 🎓 23. Key Takeaways
+# 🎓 22. Key Takeaways
 
 This project provided practical experience with the complete machine learning workflow:
 
