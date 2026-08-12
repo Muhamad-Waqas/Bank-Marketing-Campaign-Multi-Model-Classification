@@ -234,7 +234,7 @@ This may indicate differences in disposable income or financial behavior.
 
 ## 💳 Personal Loan vs Deposit
 
-![Personal Loan vs Deposit](images/Loan.JPG)
+![Personal Loan vs Deposit](images/loan.JPG)
 
 Customers without a personal loan also showed a higher subscription rate.
 
