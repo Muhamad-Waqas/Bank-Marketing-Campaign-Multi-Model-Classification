@@ -427,7 +427,7 @@ K = 11
 
 
 
-![K=11 value](knn_cvs.JPG)
+![K=11 value](knncvs.JPG)
 
 The improvement was relatively small, around **1–2%**.
 
@@ -538,7 +538,7 @@ The main metrics considered were:
 | **SVM**           | **85.54%** |      **0.88** |   **0.82** | **0.85** |
 
 
-![Classification Model Performance](Model_Comparions.JPG)
+![Classification Model Performance](ModelComparison.JPG)
 
 ---
 
