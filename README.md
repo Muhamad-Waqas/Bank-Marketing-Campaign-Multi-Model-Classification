@@ -38,6 +38,8 @@ A machine learning solution can help the bank identify customers who are more li
 
 # 📊 Dataset
 
+Dataset Link : https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data
+
 The project uses the **Bank Marketing Dataset**, containing customer demographic, financial, and campaign-related information.
 
 The target variable is:
