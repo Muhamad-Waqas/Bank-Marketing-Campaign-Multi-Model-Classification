@@ -1,5 +1,7 @@
 # 🏦 Bank Marketing Campaign Success Prediction
 
+### KPITB AI/ML Course — Batch 2 | Mid-Term Project
+
 ## 📌 Project Overview
 
 This project develops a machine learning classification system to predict whether a customer will **subscribe to a bank term deposit** as a result of a marketing campaign.
