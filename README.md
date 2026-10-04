@@ -1,8 +1,6 @@
 # 🏦 Bank Marketing Campaign Success Prediction
 
 ### KPITB AI/ML Course — Batch 2 | Mid-Term Project
-#### Project Context
-
 This project was developed as the Mid-term project for the
 KPITB AI/ML Course — Batch 2.
 
